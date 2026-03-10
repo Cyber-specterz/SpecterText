@@ -94,7 +94,7 @@ python3 --version
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/SpecterText.git
+git clone https://github.com/Cyber-specterz/SpecterText.git
 ```
 
 Enter the directory:
